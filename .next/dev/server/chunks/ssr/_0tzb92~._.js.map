@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/PC/Desktop/GameTest/dama_game/dama_game/src/app/layout.js"],"sourcesContent":["import \"./globals.css\";\n\nexport const metadata = {\n  title: \"Moroccan Dama\",\n  description: \"A Moroccan-style dama game built with Next.js and Tailwind.\",\n  icons: {\n    icon: \"/favicon.ico\",\n    shortcut: \"/favicon.ico\",\n  },\n};\n\nexport default function RootLayout({ children }) {\n  return (\n    <html lang=\"en\">\n      <body>{children}</body>\n    </html>\n  );\n}\n"],"names":["metadata","title","description","icons","icon","shortcut","RootLayout","children","lang"],"mappings":";;;;;;;;;AAEO,MAAMA,WAAW;IACtBC,OAAO;IACPC,aAAa;IACbC,OAAO;QACLC,MAAM;QACNC,UAAU;IACZ;AACF;AAEe,SAASC,WAAW,EAAEC,QAAQ,EAAE;IAC7C,qBACE,8OAAC;QAAKC,MAAK;kBACT,cAAA,8OAAC;sBAAMD;;;;;;;;;;;AAGb"}},
-    {"offset": {"line": 45, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/PC/Desktop/GameTest/dama_game/dama_game/node_modules/next/src/server/route-modules/app-page/vendored/rsc/react-jsx-dev-runtime.ts"],"sourcesContent":["module.exports = (\n  require('../../module.compiled') as typeof import('../../module.compiled')\n).vendored['react-rsc']!.ReactJsxDevRuntime\n"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":"AAAAA,OAAOC,OAAO,GACZC,QAAQ,4HACRC,QAAQ,CAAC,YAAY,CAAEC,kBAAkB","ignoreList":[0]}}]
-}
