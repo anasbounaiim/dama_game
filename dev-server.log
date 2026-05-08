@@ -1,0 +1,19 @@
+
+> moroccan-dama-core@0.1.0 dev
+> next dev --port 3000
+
+▲ Next.js 16.2.5 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.1.3:3000
+✓ Ready in 679ms
+Creating turbopack project { dir: 'C:\\Users\\PC\\Desktop\\GameTest\\dama_game', testMode: true }
+
+ GET / 200 in 2.1s (next.js: 1911ms, application-code: 177ms)
+✓ Compiled in 74ms
+✓ Compiled in 120ms
+ GET / 200 in 342ms (next.js: 209ms, application-code: 133ms)
+ GET / 200 in 78ms (next.js: 5ms, application-code: 73ms)
+✓ Compiled in 56ms
+✓ Compiled in 74ms
+ GET / 200 in 200ms (next.js: 154ms, application-code: 46ms)
+[?25h
